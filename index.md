@@ -5,7 +5,7 @@ description: "Department of Information Management and Finance, NYCU"
 theme: jekyll-theme-cayman  # Change theme if needed
 ---
 
-# Huei-Wen Teng 鄧惠文
+# Szu-Wei Chao 趙思維
 
 ## Biography
 
@@ -18,6 +18,7 @@ I am from New Taipei City and currently pursuing a master's degree in the Depart
 
 ## 📚 Additional Resources
  
-🌏 [Map, Food, Smiles](https://venteng.github.io/MFS.html)
+🌏 [Map, Food, Smiles](https://github.com/szuwei528/szuwei528.github.io/blob/main/README.md)
+
 
 ---
