@@ -11,68 +11,13 @@ theme: jekyll-theme-cayman  # Change theme if needed
 
 I am from New Taipei City and currently pursuing a master's degree in the Department of Information Management and Finance at National Yang Ming Chiao Tung University (NYCU). 
 
-💻 GitHub: [venteng](https://github.com/venteng)  
-✉️ Email: venteng@gmail.com  
-
-🔗 [More about me](https://venteng.github.io/bio.html)
-
----
-
-## 📌 Research Highlights (Coming Soon)
-
-- ESG Financing: Citizen Power Plant 全民電廠
-- Backtesting VaR and ES under Basel III
-- Financial Derivatives
-- xAI in Credit Scoring
-- Network-Based Systemic Risk of Taiwan
-
----
-
-## 🎓 Academic Positions
-
-### National Yang Ming Chiao Tung University ([NYCU](https://www.nycu.edu.tw/))
-- Professor, [Department of Information Management and Finance](https://imf.nctu.edu.tw/) (Aug 2024 - Present)
-- Associate Professor, Department of Information Management and Finance (Feb 2017 - July 2024)
-- Joint Appointment, [Department of Applied Mathematics](https://www.math.nycu.edu.tw/) (Sep 2017 - Present)
-- Joint Appointment, [Institute of Statistics](https://stat.nycu.edu.tw/) (Oct 2024 - Present)
-
-### National Central University ([NCU](https://www.ncu.edu.tw/))
-- Associate Professor, [Graduate Institute of Statistics](http://www.stat.ncu.edu.tw/) (Aug 2016 - Jan 2017)
-- Assistant Professor, Graduate Institute of Statistics (Aug 2010 - Jul 2016)
-- Joint Appointment, [Department of Finance](https://fm.mgt.ncu.edu.tw/zh-TW) (Aug 2016 - Jan 2017)
-
-### Other Institutions
-- Experienced Researcher, [IDA Institute of Digital Assets](https://ida.ase.ro) (Apr 2024 - Dec 2024)
-- Visiting Scholar, [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en), Germany (2011, 2012, 2023)
-
----
-
-## 🎓 Education
-
-### The Pennsylvania State University ([PSU](https://www.psu.edu/))
-
-- Ph.D. in Statistics (2010)  
-  - Adviser: [Prof. John Liechty](http://www.personal.psu.edu/faculty/j/c/jcl12/)  
-  - Dissertation: *Bayesian Nonparametric Approaches for Financial Option Pricing*
-
-### National Taiwan University ([NTU](https://www.ntu.edu.tw/))
-- MBA in Finance (2004)  
-  - Adviser: [Prof. Yuh-Dauh Lyuu](https://www.csie.ntu.edu.tw/~lyuu/)  
-  - Thesis: *On Pricing Rainbow Options*
-- BS in Mathematics (2001)
-
-### Other Institutions
-
-- Exchange Student, [Johannes Kepler University, Austria](https://www.jku.at) (Aug 1999 - Jan 2000)
+💻 GitHub: [szuwei528](https://github.com/szuwei528)  
+✉️ Email: weiwei.mg13@nycu.edu.tw  
 
 ---
 
 ## 📚 Additional Resources
-📄 [Publications](https://venteng.github.io/Publication.html)  
-👩‍🏫 [Lab Recruitment 實驗室夥伴招募](https://venteng.github.io/LAB_Recruitment/README.html)  
-👨‍🎓 [Students](https://venteng.github.io/LAB_Recruitment/Students.html)  
-📖 [Teaching](https://venteng.github.io/Teaching/README.html)  
-💡 [Thoughts & Insights](https://venteng.github.io/thoughts/README.html)  
+ 
 🌏 [Map, Food, Smiles](https://venteng.github.io/MFS.html)
 
 ---
